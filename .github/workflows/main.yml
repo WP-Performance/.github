@@ -1,0 +1,15 @@
+on: [push]
+
+jobs:
+  show_last_youtube_video:
+    runs-on: ubuntu-latest
+    name: A job to display youtube video
+    steps:
+      - name: YouTube action step
+        id: YouTube
+        uses: ipatate/youtube-action.git
+        with:
+          channel-id: 'UCx8Sx_WiRkT5e14CTAhr5cA'
+      # Use the output from the `hello` step
+      - name: Get the output time
+        run: echo "The list was ${{ steps.hello.outputs.list }}"
