@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: YouTube action
         id: YouTube
-        uses: ipatate/youtube-action@v1.3
+        uses: ipatate/youtube-action@v1.4
         with:
           channel-id: 'UCx8Sx_WiRkT5e14CTAhr5cA'
       # Use the output from the `hello` step
