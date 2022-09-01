@@ -17,5 +17,5 @@ Site wp-performance.com en construction...
 Merci.
 
 <a rel="sponsored" href="https://www.awin1.com/cread.php?s=2240832&v=13324&q=345814&r=967607">
-    <img src="/WP-Performance/.github/main/profile/o2switch.png" border="0">
+    <img src="./profile/o2switch.png" border="0">
 </a>
