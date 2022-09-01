@@ -15,3 +15,7 @@ Site wp-performance.com en construction...
 - [https://www.youtube.com/channel/UCp5DGBAX2XNJXeOVAo7bICQ](https://www.youtube.com/channel/UCp5DGBAX2XNJXeOVAo7bICQ)
 
 Merci.
+
+<a rel="sponsored" href="https://www.awin1.com/cread.php?s=2240832&v=13324&q=345814&r=967607">
+    <img src="https://www.awin1.com/cshow.php?s=2240832&v=13324&q=345814&r=967607" border="0">
+</a>
