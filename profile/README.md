@@ -4,10 +4,11 @@
 
 - Améliorer les performances des sites WordPress par des exemples
 
-## Retrouvez les vidéos sur la chaine YouTube :
-- [https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA](https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA)
+## Le site web :
 - [https://wp-performance.com](https://wp-performance.com)
 
+## Retrouvez les vidéos sur la chaine YouTube :
+- [https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA](https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA)
 
 ## Retrouvez également le podcast Double Slash :
 - [https://slash-podcast.fr/](https://slash-podcast.fr/)
