@@ -6,8 +6,7 @@
 
 ## Retrouvez les vidéos sur la chaine YouTube :
 - [https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA](https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA)
-
-Site wp-performance.com en construction...
+- [https://wp-performance.com](https://wp-performance.com)
 
 
 ## Retrouvez également le podcast Double Slash :
