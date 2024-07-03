@@ -11,7 +11,7 @@
 - [https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA](https://www.youtube.com/channel/UCx8Sx_WiRkT5e14CTAhr5cA)
 
 ## Retrouvez également le podcast Double Slash :
-- [https://slash-podcast.fr/](https://slash-podcast.fr/)
+- [https://double-slash.dev/](https://double-slash.dev/)
 - [https://www.youtube.com/channel/UCp5DGBAX2XNJXeOVAo7bICQ](https://www.youtube.com/channel/UCp5DGBAX2XNJXeOVAo7bICQ)
 
 Merci.
